@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smart Lead Garden CRM</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>🌸 Smart Lead Garden CRM</h1>
+
+<div class="dashboard">
+<div>Total Leads 🌱 : <span id="count">0</span></div>
+</div>
+
+<div class="form">
+<input id="name" placeholder="Client Name 😊">
+<input id="email" placeholder="Email 📧">
+
+<select id="status">
+<option>🌱 New</option>
+<option>📞 Contacted</option>
+<option>🎉 Converted</option>
+</select>
+
+<button onclick="addLead()">Add Lead ✨</button>
+</div>
+
+<div id="leadContainer" class="cards"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
