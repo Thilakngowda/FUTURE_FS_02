@@ -1,5 +1,3 @@
-# crm
-
 # 📊 Client Lead Management System (Mini CRM)
 
 ## Overview
