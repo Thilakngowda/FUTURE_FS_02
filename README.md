@@ -43,8 +43,8 @@ mini-crm
 
 ---
 ## Output
--**username** - admin
--**password** - 1234
+- **Username** - admin
+- **Password** - 1234
 
 ---
 
