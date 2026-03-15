@@ -42,6 +42,11 @@ mini-crm
 3. Run **login.html** in your browser to start the application.
 
 ---
+## Output
+username - admin
+password - 1234
+
+---
 
 ## 🎯 Project Objective
 The goal of this project is to build a lightweight CRM system that helps businesses manage leads and understand the basic workflow of customer relationship management using web technologies.
